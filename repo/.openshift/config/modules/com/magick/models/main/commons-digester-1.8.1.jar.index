@@ -1,0 +1,14 @@
+
+META-INF/maven/commons-digester
+org/apache/commons/digester/plugins
+org/apache/commons
+META-INF/maven
+org/apache/commons/digester
+META-INF/maven/commons-digester/commons-digester
+org
+META-INF
+org/apache/commons/digester/parser
+org/apache/commons/digester/plugins/strategies
+org/apache/commons/digester/xmlrules
+org/apache
+org/apache/commons/digester/substitution
