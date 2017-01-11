@@ -1,0 +1,12 @@
+
+org/kie/commons/java/nio
+org/kie
+META-INF/maven
+org/kie/commons/java
+org/kie/commons/java/nio/fs
+META-INF/maven/org.kie.commons
+org/kie/commons
+org
+META-INF
+META-INF/maven/org.kie.commons/kie-nio2-fs
+org/kie/commons/java/nio/fs/file

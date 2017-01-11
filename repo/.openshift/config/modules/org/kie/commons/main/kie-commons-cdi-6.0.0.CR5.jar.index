@@ -1,0 +1,10 @@
+META-INF/maven/org.kie.commons/kie-commons-cdi
+
+org/kie/commons/services
+org/kie
+org/kie/commons/services/cdi
+META-INF/maven
+org/kie/commons
+META-INF/maven/org.kie.commons
+org
+META-INF

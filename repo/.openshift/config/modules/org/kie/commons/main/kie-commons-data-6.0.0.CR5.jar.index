@@ -1,0 +1,12 @@
+
+org/kie/commons/cluster
+org/kie
+META-INF/maven
+org/kie/commons/lock
+org/kie/commons
+META-INF/maven/org.kie.commons/kie-commons-data
+META-INF/maven/org.kie.commons
+org
+META-INF
+org/kie/commons/message
+org/kie/commons/data

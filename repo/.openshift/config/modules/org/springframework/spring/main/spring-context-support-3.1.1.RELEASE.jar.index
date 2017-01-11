@@ -1,0 +1,13 @@
+
+org/springframework
+org/springframework/scheduling
+org/springframework/ui/jasperreports
+org
+META-INF
+org/springframework/scheduling/quartz
+org/springframework/ui/velocity
+org/springframework/mail
+org/springframework/ui
+org/springframework/ui/freemarker
+org/springframework/mail/javamail
+org/springframework/scheduling/commonj
