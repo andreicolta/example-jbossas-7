@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="urn:jboss:module:1.0" name="nu.magick.masterKonnector">
+  <resources>
+    <resource-root path="MasterKonnector-2.7.0-SNAPSHOT.jar"/>
+  </resources>
+  <dependencies>
+    <module name="org.codehaus.jackson.jackson-mapper-asl" export="true"/>
+    <module name="org.codehaus.jackson.jackson-core-asl" export="true"/>
+    <module name="com.magick.models" export="true"/>
+    <module name="javax.api"/>
+    <module name="javax.annotation.api"/>
+    <module name="javax.ejb.api"/>
+    <module name="javax.enterprise.api"/>
+    <module name="javax.inject.api"/>
+    <module name="javax.interceptor.api"/>
+    <module name="javax.validation.api"/>
+    <module name="javax.ws.rs.api"/>
+    <module name="org.apache.log4j"/>
+    <module name="org.jboss.resteasy.resteasy-jaxrs"/>
+    <module name="org.switchyard"/>
+    <module name="org.switchyard.api"/>
+    <module name="org.switchyard.common"/>
+    <module name="org.switchyard.common.camel"/>
+    <module name="org.switchyard.bus.camel"/>
+    <module name="org.switchyard.config"/>
+    <module name="org.switchyard.runtime"/>
+    <module name="org.switchyard.transform"/>
+    <module name="org.switchyard.validate"/>
+    <module name="org.apache.deltaspike.core-api"/>
+    <module name="org.switchyard.component.bean"/>
+    <module name="org.switchyard.component.resteasy"/>
+    <module name="org.switchyard.component.common"/>
+  </dependencies>
+</module>
