@@ -1,0 +1,29 @@
+Sep 2, 2016 11:23:05 +0200 [16223 1] com.newrelic INFO: Writing to New Relic log file: /var/lib/openshift/541723389821cc77c2000167/app-root/runtime/repo/newrelic/logs/newrelic_agent.log
+Sep 2, 2016 11:23:05 +0200 [16223 1] com.newrelic INFO: Agent Host: nodelarge.amakitu.com IP: 176.9.172.250
+Sep 2, 2016 11:23:06 +0200 [16223 1] com.newrelic INFO: Disabled point cut "com.newrelic.agent.instrumentation.pointcuts.container.netty.NettyPortPointCut"
+Sep 2, 2016 11:23:12 +0200 [16223 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Sep 2, 2016 11:23:12 +0200 [16223 1] com.newrelic INFO: Setting audit_mode to false
+Sep 2, 2016 11:23:12 +0200 [16223 1] com.newrelic INFO: Setting protocol to "https"
+Sep 2, 2016 11:23:12 +0200 [16223 1] com.newrelic INFO: The property analytics_events.max_samples_stored is deprecated. Please use transaction_events.analytics_events.max_samples_stored.
+Sep 2, 2016 11:23:13 +0200 [16223 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /var/lib/openshift/541723389821cc77c2000167/app-root/runtime/repo/newrelic/./newrelic.yml
+Sep 2, 2016 11:23:13 +0200 [16223 1] com.newrelic INFO: New Relic Agent v3.7.0 has started
+Sep 2, 2016 11:23:13 +0200 [16223 1] com.newrelic INFO: Java version: 1.7.0_91
+Sep 2, 2016 11:23:13 +0200 [16223 1] com.newrelic INFO: Agent class loader: sun.misc.Launcher$AppClassLoader@203b4f0e
+Sep 2, 2016 11:23:18 +0200 [16223 11] com.newrelic INFO: Display host name is nodelarge.amakitu.com for application trading1 - DEV
+Sep 2, 2016 11:23:19 +0200 [16223 11] com.newrelic INFO: Collector redirection to collector-155.newrelic.com:443
+Sep 2, 2016 11:23:20 +0200 [16223 11] com.newrelic INFO: Agent run id: 22849312544512383
+Sep 2, 2016 11:23:20 +0200 [16223 11] com.newrelic INFO: Agent 16223@nodelarge.amakitu.com/trading1 - DEV connected to collector.newrelic.com:443
+Sep 2, 2016 11:23:20 +0200 [16223 11] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/675718/applications/4234692
+Sep 2, 2016 11:23:20 +0200 [16223 11] com.newrelic INFO: Using RUM version 974 for application "trading1 - DEV"
+Sep 2, 2016 11:23:20 +0200 [16223 11] com.newrelic INFO: Real user monitoring is enabled with auto instrumentation for application "trading1 - DEV"
+Sep 2, 2016 11:23:21 +0200 [16223 136] com.newrelic INFO: Server Info: JBoss Web/7.2.2.Final-redhat-1
+Sep 2, 2016 11:23:21 +0200 [16223 136] com.newrelic INFO: trading1 - DEV is reconnecting
+Sep 2, 2016 11:23:21 +0200 [16223 11] com.newrelic INFO: Display host name is nodelarge.amakitu.com for application trading1 - DEV
+Sep 2, 2016 11:23:21 +0200 [16223 136] com.newrelic INFO: The property analytics_events.max_samples_stored is deprecated. Please use transaction_events.analytics_events.max_samples_stored.
+Sep 2, 2016 11:23:22 +0200 [16223 11] com.newrelic INFO: Collector redirection to collector-155.newrelic.com:443
+Sep 2, 2016 11:23:22 +0200 [16223 11] com.newrelic INFO: Agent run id: 21203133184334318
+Sep 2, 2016 11:23:22 +0200 [16223 11] com.newrelic INFO: Agent 16223@nodelarge.amakitu.com/trading1 - DEV connected to collector.newrelic.com:443
+Sep 2, 2016 11:23:22 +0200 [16223 11] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/675718/applications/4234692
+Sep 2, 2016 11:23:22 +0200 [16223 11] com.newrelic INFO: Using RUM version 974 for application "trading1 - DEV"
+Sep 2, 2016 11:23:22 +0200 [16223 11] com.newrelic INFO: Real user monitoring is enabled with auto instrumentation for application "trading1 - DEV"
+Sep 2, 2016 11:23:27 +0200 [16223 26] com.newrelic INFO: The property analytics_events.max_samples_stored is deprecated. Please use transaction_events.analytics_events.max_samples_stored.

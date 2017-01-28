@@ -1,0 +1,8 @@
+name: JBOSS_TRD
+version: 1.0
+enabled: true
+jmx:
+  - object_name: jboss.as:subsystem=messaging,hornetq-server=default,runtime-queue=jms.queue.marketDataRhQueue
+    metrics:
+      - attributes: messagesAdded, messageCount, deliveringCount
+        type: simple
