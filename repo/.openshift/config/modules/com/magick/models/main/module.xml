@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module xmlns="urn:jboss:module:1.0" name="com.magick.models">
     <resources>
-	    <resource-root path="models-2.7.0-SNAPSHOT.jar"/>
+	    <resource-root path="models-2.7.62.jar"/>
 		<!--
 		<resource-root path="mongo-java-driver-2.12.2.jar"/>
 		<resource-root path="morphia-0.106-SNAPSHOT.jar"/>
